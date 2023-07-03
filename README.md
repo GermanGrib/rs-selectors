@@ -1,1 +1,1 @@
-[RS-Selectors](https://rs-selectors.github.io/rsSelectors/dist/index.html)
+[RS-Selectors](https://GermanGrib.github.io/rs-selectors/)
