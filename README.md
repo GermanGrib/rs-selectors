@@ -1,1 +1,1 @@
-# rs-selectors
+[RS-Selectors](https://rs-selectors.github.io/rsSelectors/dist/index.html)
